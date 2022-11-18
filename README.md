@@ -24,4 +24,4 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 
-[1]: # (End of ES-Instruction ###############################################################################################
+[1]: # (End of ES-Instruction ###############################################################################################)
