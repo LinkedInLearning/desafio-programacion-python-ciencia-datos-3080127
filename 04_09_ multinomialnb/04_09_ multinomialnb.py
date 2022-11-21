@@ -21,5 +21,5 @@ multinomia_nb.fit(X_train_dtm, y_train)
 
 y_pred_class = multinomia_nb.predict(X_test_dtm)
 
-print('La presición es: ', accuracy_score(y_test, y_pred_class))
+print('La precisión es: ', accuracy_score(y_test, y_pred_class))
 print('F1 Score: ', f1_score(y_test, y_pred_class, average="macro"))
