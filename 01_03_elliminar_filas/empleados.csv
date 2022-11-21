@@ -1,0 +1,252 @@
+Nombre;Sexo;Estado_Civil;Edad;Experiencia;Salario;Gerencia;Departamento
+Alexandro;Masculino;Soltero(a);22;3;2423;No;Publicidad
+Carlos;Masculino;Casado(a);38;10;3132;Sí;
+Felipa;Femenino;Soltero(a);26;5;2639;No;Comercial
+Daniel;Masculino;Casado(a);35;10;3122;No;Comercial
+John;Masculino;Casado(a);35;13;3431;Sí;Servicios al cliente
+Edward;Masculino;Soltero(a);;;4500;No;Legal
+Ruperta;Femenino;Casado(a);54;18;3962;No;Producto
+Amaya;Femenino;Divorciado(a);22;3;2450;;Comercial
+Francisca;Femenino;Soltero(a);27;4;2564;No;IT
+Selena;Femenino;Casado(a);24;6;2709;Sí;Contabilidad
+Febe;Femenino;Casado(a);44;22;4359;No;
+Ximena;Femenino;Soltero(a);58;24;4532;No;Legal
+David;Masculino;Divorciado(a);20;1;1977;No;Recursos Humanos
+Max;Masculino;Divorciado(a);39;8;2953;No;Ventas
+Selena;Femenino;Casado(a);24;6;2709;Sí;Contabilidad
+;Femenino;;44;22;;;
+Paula;Femenino;Divorciado(a);55;12;3306;No;Producto
+Tim;Masculino;Divorciado(a);22;4;2518;No;Recursos Humanos
+Andrew;Masculino;Divorciado(a);;10;3194;No;Producto
+Gloria;Femenino;Casado(a);31;11;3267;No;Servicios al cliente
+Ema;Femenino;Soltero(a);;15;3635;No;Producto
+Isaura;;Divorciado(a);35;8;2973;Sí;Legal
+Jesse;Masculino;Soltero(a);34;11;3257;No;Publicidad
+Nathan;;Soltero(a);35;9;3040;Sí;Servicios al cliente
+Dennis;Masculino;Soltero(a);28;6;2730;;
+Ronald;Masculino;Soltero(a);23;5;2695;No;Servicios al cliente
+Clarisa;Masculino;Divorciado(a);38;6;2764;;Servicios al cliente
+Randy;Masculino;Soltero(a);;24;4529;No;Publicidad
+Steven;;Casado(a);19;1;2051;No;Legal
+Justin;Masculino;Casado(a);;18;3907;No;Servicios al cliente
+Alexander;Masculino;Soltero(a);;5;2656;No;Legal
+Manola;Femenino;Soltero(a);40;9;3023;No;IT
+Vera;;Casado(a);;;;;
+Brandon;Masculino;Soltero(a);;7;2835;;
+Isabela;Femenino;Casado(a);66;12;3344;No;Contabilidad
+Herberto;Masculino;Casado(a);28;3;2391;No;Servicios al cliente
+Lilia;Femenino;Divorciado(a);42;16;3796;No;Ventas
+Carmelita;Femenino;Casado(a);;5;2676;No;Reclutamiento
+Agustina;Femenino;Casado(a);21;3;2371;No;Servicios al cliente
+Anselma;Femenino;Casado(a);18;0;1887;No;Contabilidad
+Gaspar;Masculino;Casado(a);34;7;2894;;Servicios al cliente
+Lucho;Masculino;Divorciado(a);40;3;2385;No;Finanzas
+Maricela;;Divorciado(a);27;6;2751;No;Contabilidad
+Julie;Femenino;Soltero(a);;6;2709;No;Legal
+Maristela;Femenino;Soltero(a);38;11;3256;No;Publicidad
+Gabriela;Femenino;Soltero(a);19;1;1985;No;Producto
+Lisandro;Masculino;Casado(a);;9;3027;Sí;Ventas
+Eduardo;Masculino;Soltero(a);;10;3128;No;Comercial
+Mirta;Femenino;Casado(a);;15;3614;No;Servicios al cliente
+Danilo;Masculino;Soltero(a);;25;4611;No;Contabilidad
+Manuelita;;Casado(a);18;0;1672;No;Ventas
+Gabriela;Femenino;Soltero(a);37;13;3409;No;IT
+Maricruz;;Soltero(a);21;2;2272;;Ventas
+Olegario;Masculino;Divorciado(a);49;5;2626;No;Recursos Humanos
+Carlos;;;;;;;Comercial
+Berta;Femenino;Casado(a);65;27;4888;No;IT
+Abigail;Femenino;Soltero(a);;15;3656;No;Producto
+Albino;Masculino;Casado(a);21;2;2207;No;Comercial
+Albert;Masculino;Casado(a);28;4;2527;No;Recursos Humanos
+Florina;Femenino;Divorciado(a);55;33;5462;No;IT
+Soledad;Femenino;Divorciado(a);21;3;2477;No;IT
+Eva;;Casado(a);22;4;2565;No;Finanzas
+Miriam;Femenino;Soltero(a);38;1;1999;No;Contabilidad
+Fortunata;Femenino;Divorciado(a);45;16;3709;;Publicidad
+Lucio;Masculino;Soltero(a);54;12;3317;No;Recursos Humanos
+Lucio;Masculino;Soltero(a);54;12;3317;No;Recursos Humanos
+Estrella;;;;;;;
+Geraldo;Masculino;Divorciado(a);;30;5034;No;Finanzas
+Luisa;Femenino;Soltero(a);29;5;2648;No;Contabilidad
+Regina;Femenino;Divorciado(a);19;1;2033;No;Comercial
+Dionisio;Masculino;Casado(a);47;20;4168;No;Comercial
+Joshua;;Casado(a);26;4;2520;No;Comercial
+Lola;;Soltero(a);32;3;2487;No;Servicios al cliente
+Eliseo;Masculino;Casado(a);36;7;2900;No;Ventas
+Loreto;Masculino;Soltero(a);21;3;2432;No;Producto
+Olivia;Femenino;Casado(a);26;5;2655;No;Ventas
+Alfonso;Masculino;Casado(a);32;10;3134;No;Publicidad
+Carlota;Femenino;Soltero(a);25;3;2317;No;Recursos Humanos
+Evelia;Femenino;Soltero(a);;1;2095;No;Finanzas
+Marcos;Masculino;Casado(a);;2;2222;No;Publicidad
+Eligia;Femenino;Soltero(a);24;3;2453;No;Ventas
+Amada;Femenino;Divorciado(a);30;3;2443;No;Producto
+Jeremy;;Casado(a);22;4;2512;No;Ventas
+Amado;Masculino;Soltero(a);29;2;2221;No;Legal
+Alfonso;Masculino;Casado(a);;24;4545;No;Servicios al cliente
+Cirino;Masculino;Divorciado(a);28;4;2581;No;Comercial
+Joaquina;Femenino;Casado(a);27;1;2007;No;Comercial
+Herberto;Masculino;Soltero(a);33;12;3364;No;Servicios al cliente
+;;;;11;3293;;
+Nilda;Femenino;Casado(a);;27;4889;No;Ventas
+Susanita;Femenino;Casado(a);23;2;2228;No;Legal
+Melisa;Femenino;Soltero(a);24;3;2362;No;Legal
+Amy;;Casado(a);29;3;2426;No;Legal
+Dorita;;Soltero(a);20;1;2038;No;
+Yolanda;Femenino;Divorciado(a);46;1;1939;No;Contabilidad
+Paz;;Casado(a);26;1;1925;No;Legal
+Paulino;Masculino;Soltero(a);59;15;3641;No;Legal
+Debora;Femenino;Casado(a);;1;1929;No;Servicios al cliente
+Teodora;Femenino;Casado(a);71;32;5332;No;Comercial
+Eliana;;Casado(a);23;5;2670;No;Publicidad
+Herminia;Femenino;Soltero(a);34;9;3010;No;Publicidad
+Francisco;Masculino;Casado(a);34;8;2920;No;Reclutamiento
+Pastora;Femenino;Divorciado(a);28;5;2631;No;Comercial
+Carlos;Masculino;Soltero(a);;8;2919;No;Publicidad
+Jose;Masculino;Soltero(a);21;3;2300;No;Servicios al cliente
+Eva;Femenino;Soltero(a);33;8;2931;Sí;Comercial
+Erasmo;Masculino;Divorciado(a);37;2;2148;No;Publicidad
+Eliana;Femenino;Casado(a);28;6;2779;No;Comercial
+Adalberto;Masculino;Casado(a);21;2;2249;No;Legal
+Jacobo;Masculino;Soltero(a);;6;2774;No;Legal
+Eulalia;;Casado(a);38;8;2929;No;Legal
+Ovidio;Masculino;Soltero(a);;20;4118;No;
+Luisa;Femenino;Soltero(a);47;9;3020;No;Legal
+Ana;Femenino;Soltero(a);54;8;2953;Sí;Contabilidad
+Aureliano;Masculino;Soltero(a);22;4;2524;No;Publicidad
+Samanta;Femenino;Casado(a);20;2;2298;No;IT
+Ana;Femenino;Divorciado(a);47;5;2625;No;Contabilidad
+Amada;Femenino;Soltero(a);21;2;2274;No;Producto
+Marcelo;Masculino;Soltero(a);70;34;5571;;Legal
+Carmelo;Masculino;Casado(a);29;2;2250;No;Comercial
+Consuelo;Femenino;Divorciado(a);24;1;2091;No;Contabilidad
+Teo;Masculino;Casado(a);23;5;2643;No;Publicidad
+Leandro;Masculino;Divorciado(a);21;3;2322;No;Contabilidad
+Elena;;Casado(a);;5;2686;No;Producto
+Fanny;Femenino;Casado(a);32;7;2843;No;IT
+Dionisia;Femenino;Soltero(a);32;8;2936;Sí;Producto
+Joaquina;Femenino;Casado(a);54;25;4657;Sí;Producto
+Leire;Femenino;Casado(a);42;2;2237;No;Recursos Humanos
+Luisa;Femenino;Casado(a);;25;4652;No;Recursos Humanos
+Lorenzo;Masculino;Soltero(a);24;3;2335;No;Recursos Humanos
+Jose;Masculino;Casado(a);;23;4500;No;Servicios al cliente
+Hilario;Masculino;Casado(a);45;10;3166;No;Contabilidad
+Susanita;Femenino;Soltero(a);33;4;2581;No;Recursos Humanos
+Flora;Femenino;Soltero(a);20;2;2256;No;Producto
+Celso;Masculino;Casado(a);47;15;3646;No;Recursos Humanos
+Luz;Femenino;Divorciado(a);29;4;2592;No;Servicios al cliente
+Adelia;Femenino;Casado(a);25;3;2477;No;Contabilidad
+Francisca;Femenino;Divorciado(a);23;2;2270;No;Legal
+Santiago;Masculino;Soltero(a);19;1;1920;No;Legal
+Fulgencio;Masculino;Casado(a);37;10;3117;No;Finanzas
+Clarisa;Femenino;Casado(a);56;8;2972;Sí;IT
+Magdalena;Femenino;Casado(a);24;1;2011;;
+Paz;Femenino;Soltero(a);;10;3115;No;Publicidad
+Loreto;Masculino;Soltero(a);22;3;2492;No;Producto
+Clara;Femenino;Soltero(a);24;3;2347;No;Comercial
+Isidora;;Soltero(a);19;1;2059;No;IT
+Eliana;;Divorciado(a);18;0;1727;No;Ventas
+Soraya;Femenino;Divorciado(a);19;1;2037;No;Servicios al cliente
+Reyes;Femenino;Soltero(a);27;4;2508;No;Producto
+Iker;Masculino;Divorciado(a);39;11;3287;No;Legal
+Eliana;;Casado(a);36;9;3036;No;Ventas
+Herminia;Femenino;Soltero(a);42;23;4404;;Finanzas
+Ernesto;Masculino;Divorciado(a);51;11;3233;No;Publicidad
+Brunilda;;Casado(a);22;2;2213;No;Reclutamiento
+Estela;Femenino;Casado(a);55;5;2675;No;Servicios al cliente
+Lucia;;Divorciado(a);40;10;3187;Sí;Comercial
+Tomasa;Femenino;Soltero(a);;21;4214;No;Producto
+Pastora;Femenino;Casado(a);51;8;2995;Sí;Reclutamiento
+Amancio;Masculino;Casado(a);46;9;3054;Sí;Recursos Humanos
+Hailey;Femenino;Casado(a);30;4;2532;;Producto
+Pili;Femenino;Casado(a);;30;5116;Sí;Publicidad
+Otilia;;Casado(a);;30;5166;No;Publicidad
+Eva;Femenino;Casado(a);44;12;3373;Sí;Comercial
+Elisabet;;Divorciado(a);40;6;2796;No;Finanzas
+Lino;Masculino;Casado(a);26;5;2662;No;Legal
+Juan;Masculino;Divorciado(a);37;3;2325;No;Servicios al cliente
+Adela;Femenino;Divorciado(a);21;3;2467;No;Contabilidad
+Juanita;Femenino;Soltero(a);;4;2522;;Legal
+Maristela;Femenino;Divorciado(a);;18;3901;;Ventas
+Eugenio;Masculino;Casado(a);45;18;3908;No;Ventas
+Sofia;;Soltero(a);;26;4716;No;Publicidad
+Olga;Femenino;Soltero(a);;11;3209;No;Producto
+Daisy;Femenino;Casado(a);61;8;2902;No;Ventas
+James;Masculino;Soltero(a);;13;3433;No;IT
+Marta;Femenino;Soltero(a);51;5;2651;No;Comercial
+Elodia;Femenino;Divorciado(a);21;3;2462;No;IT
+;;Divorciado(a);56;11;3224;;Servicios al cliente
+Emilio;Masculino;Divorciado(a);18;0;1872;No;IT
+Patricio;Masculino;Soltero(a);;3;2492;No;Producto
+Kevin;Masculino;Soltero(a);50;8;2985;Sí;Finanzas
+Ana;Femenino;Divorciado(a);;17;3847;No;Producto
+Petrona;Femenino;Soltero(a);;32;5358;No;Comercial
+Daniel;Masculino;Casado(a);;9;3059;No;Contabilidad
+Tyler;Masculino;Soltero(a);;29;5085;No;Finanzas
+Belen;Femenino;Soltero(a);29;4;2596;No;Contabilidad
+Samanta;;Casado(a);31;12;3393;No;Finanzas
+Richard;Masculino;Divorciado(a);34;7;2804;No;Servicios al cliente
+Vilma;Femenino;Casado(a);;2;2209;No;Legal
+;Femenino;Casado(a);;25;4626;;Ventas
+Aaron;Masculino;Soltero(a);45;9;3093;Sí;Publicidad
+Douglas;Masculino;Casado(a);40;6;2735;No;Legal
+Sean;Masculino;Soltero(a);36;2;2114;No;Ventas
+Celia;Femenino;Casado(a);32;11;3260;No;Comercial
+Angela;Femenino;Soltero(a);19;1;2100;No;IT
+Griselda;;Casado(a);19;1;1930;No;Legal
+Olga;Femenino;Divorciado(a);32;4;2573;No;Legal
+Rafaela;Femenino;Casado(a);44;11;3292;No;Finanzas
+Corey;Masculino;Casado(a);58;32;5360;No;Producto
+Randall;Masculino;Soltero(a);;11;3300;No;Servicios al cliente
+Otilia;Femenino;Divorciado(a);42;8;2990;No;Servicios al cliente
+Yesica;Femenino;Casado(a);;3;2320;No;Producto
+Jason;Masculino;Casado(a);24;1;2049;No;
+Shaun;Masculino;Casado(a);28;6;2796;No;Comercial
+Tatiana;Femenino;Divorciado(a);;19;;No;Publicidad
+Eric;Masculino;Divorciado(a);34;6;2745;No;Ventas
+Marisol;Femenino;Casado(a);;17;3839;No;Contabilidad
+Daniel;Masculino;Casado(a);18;0;1875;No;Publicidad
+Brian;Masculino;Casado(a);;30;5189;No;Comercial
+Eva;Femenino;Divorciado(a);;16;3797;No;Servicios al cliente
+Katherine;Femenino;Soltero(a);;24;4516;No;Servicios al cliente
+James;Masculino;Casado(a);46;20;4154;No;Recursos Humanos
+Gala;Femenino;Divorciado(a);40;1;1946;No;IT
+Elena;Femenino;Casado(a);24;2;2101;No;Legal
+Luna;Femenino;Soltero(a);35;6;2772;No;Recursos Humanos
+Jennifer;Femenino;Soltero(a);22;1;1930;No;Servicios al cliente
+Rosenda;Femenino;Casado(a);30;4;2596;No;IT
+Eli;Femenino;Soltero(a);;14;3507;No;IT
+Odalis;Femenino;Soltero(a);31;2;2262;No;Servicios al cliente
+Felipe;Masculino;Soltero(a);27;3;2456;No;Publicidad
+Juan;Masculino;Soltero(a);42;17;;No;Servicios al cliente
+Piedad;;Soltero(a);32;3;2316;No;Comercial
+Jose;Masculino;Casado(a);30;4;2513;No;Comercial
+;Femenino;Soltero(a);36;10;3169;;Publicidad
+Ariel;Masculino;Casado(a);27;2;2100;No;Legal
+Luis;Masculino;Divorciado(a);51;25;4681;No;Comercial
+Isidoro;Masculino;Divorciado(a);;24;4544;No;Legal
+;Femenino;Casado(a);38;5;2633;No;Finanzas
+Lucho;Masculino;Casado(a);22;4;2507;No;Ventas
+Yesica;Femenino;Divorciado(a);19;1;1935;No;Comercial
+Victoriano;Masculino;Casado(a);20;2;2110;No;Servicios al cliente
+Onofre;Masculino;Soltero(a);18;1;2067;No;IT
+Duilio;Masculino;Soltero(a);;8;2986;No;Finanzas
+Michael;;Soltero(a);35;13;3420;No;Legal
+Carina;Femenino;Casado(a);29;1;1904;No;Producto
+Irene;Femenino;Casado(a);;2;2169;No;Recursos Humanos
+Judith;Femenino;Divorciado(a);;16;3769;Sí;Ventas
+Alicia;Femenino;Casado(a);24;4;2507;No;Servicios al cliente
+Maite;Femenino;Casado(a);;35;5614;No;IT
+Lupita;Femenino;Casado(a);44;14;3532;No;Producto
+Soraya;Femenino;Soltero(a);38;4;2546;No;Legal
+Eric;Masculino;Casado(a);19;1;1964;No;Legal
+Robert;;Soltero(a);33;11;3267;No;Recursos Humanos
+Kevin;;Divorciado(a);;20;4166;No;Finanzas
+Amaro;Masculino;Casado(a);;24;4510;No;Comercial
+Hernando;Masculino;Divorciado(a);29;4;2510;No;IT
+Vito;Masculino;Divorciado(a);22;4;2530;No;Producto
+Jose;Masculino;Casado(a);30;6;2760;No;Servicios al cliente
+Marcelo;Masculino;Divorciado(a);44;15;3616;No;IT
+Eric;;Casado(a);25;7;2880;Sí;Recursos Humanos
+Marc;;Casado(a);24;2;2172;No;Producto
+Leandro;Masculino;Casado(a);37;11;3245;No;Finanzas
