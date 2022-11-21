@@ -10,4 +10,4 @@ arbol_decision = DecisionTreeClassifier()
 arbol_decision.fit(X_train, y_train)
 
 precision = arbol_decision.score(X_test, y_test)
-print('La presición es ', precision*100)
+print('La precisión es ', precision*100)
