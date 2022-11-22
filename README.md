@@ -1,7 +1,7 @@
 # Desafío de programación: Python para ciencia de datos
 Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: Python para ciencia de datos]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![Desafío de programación: Python para ciencia de datos][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
