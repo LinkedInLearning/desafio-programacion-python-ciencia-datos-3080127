@@ -6,6 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[Desafío de programació
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+Este contenido reforzará tus habilidades con Python y la ciencia de datos por medio de ejercicios prácticos que te permitirán ampliar tus conocimientos de forma amena y divertida. Durante el transcurso del curso, resolverás ejercicios con distintas dificultades para poner en práctica retos a completar. Para ello hay que detener el vídeo y resolver el ejercicio, posteriormente se podrá revisar el vídeo para comparar los resultados y obtener la respuesta correcta.
 
 ## Instrucciones
 Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
